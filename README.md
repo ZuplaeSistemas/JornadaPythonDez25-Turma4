@@ -3,3 +3,4 @@ Arquivos de aula ao vivo para Turma4 de Jornada Python Dez/25
 
 Aulas:
  - Aula001 (03/12/25) - Instalacoes, testes e print
+ - Aula002 (08/12/25) - Print, format, f-strings, tipos de dados, input
