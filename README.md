@@ -6,3 +6,4 @@ Aulas:
  - Aula002 (08/12/25) - Print, format, f-strings, tipos de dados, input
  - Aula003 (10/12/25) - Git, Github, repositorios, commit, conversao de tipos e operadores matematicos
  - Aula004 (15/12/25) - Listas, Tuplas, Dicionários, Estruturas de Decisão
+ - Aula005 (17/12/25) - Estruturas de Repetição, funções e modularização.
